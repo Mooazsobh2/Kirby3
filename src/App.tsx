@@ -133,7 +133,7 @@ export default function EngineerAppointments() {
     <div className="min-h-screen bg-white flex flex-col text-gray-900">
       {/* Header */}
       <header className="p-4 border-b flex items-center justify-between">
-        <h1 className="text-lg font-semibold text-red-800">المواعيد (Tell Market)</h1>
+        <h1 className="text-lg font-semibold text-red-800">تطبيق المهندس</h1>
         <nav className="flex gap-1">
           {[
             { k: "appointments", l: "المواعيد", i: "📋" },
